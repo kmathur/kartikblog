@@ -9,33 +9,33 @@ Category: Poetry
 
 ---
 
-In the sea of faceless gleaming cars,  
-each one messy, broken in its own way—  
-sparkling headlights glimmer from afar,  
+In the sea of faceless gleaming cars,<br>
+each one messy, broken in its own way—<br>
+sparkling headlights glimmer from afar,<br>
 peer inside and it is all dark.
 
-Every morning, without a choice,  
-driven to work by someone it did not choose,  
-checked and cleaned on schedule  
+Every morning, without a choice,<br>
+driven to work by someone it did not choose,<br>
+checked and cleaned on schedule<br>
 while mounting miles and silent faults eat it away.
 
-Each day inching closer to collapse,  
-at a push of pedal, racing so fast—  
-it has no life, they say,  
+Each day inching closer to collapse,<br>
+at a push of pedal, racing so fast—<br>
+it has no life, they say,<br>
 and yet its everyday life is all of us.
 
-Same house, same routine, same every day,  
-without a choice.  
-Some have alloy wheels and some have designer lights,  
-meticulously designed to look apart,  
+Same house, same routine, same every day,<br>
+without a choice.<br>
+Some have alloy wheels and some have designer lights,<br>
+meticulously designed to look apart,<br>
 spent a huge sum to hide the drudgery.
 
-When rubber hits the road,  
-no one pauses to admire—  
-the sameness is not for outside  
+When rubber hits the road,<br>
+no one pauses to admire—<br>
+the sameness is not for outside<br>
 but in its fate.
 
-One missed step  
+One missed step<br>
 and it's all over.
 
 ---
