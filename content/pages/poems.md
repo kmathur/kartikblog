@@ -8,8 +8,8 @@ Modified: 2024-01-01
 
 ## My Original Poems
 
-### [The Morning Coffee Ritual](/pages/the-morning-coffee-ritual.html)
-*A meditation on daily routines and finding mindfulness in simple moments*
+### [Highway 101 - Morning Commute](/pages/highway-101-morning-commute.html)
+*The drudgery of daily commute and the parallel lives of cars and their drivers*
 
 ### [Digital Nomad's Lament](/pages/digital-nomads-lament.html)
 *Reflections on connection and disconnection in our hyper-connected world*
