@@ -1,9 +1,8 @@
-Title: Highway 101 - Morning Commute
+Title: Morning Commute
 Date: 2024-01-01
 Modified: 2024-01-01
 Category: Poetry
 
-# Highway 101
 
 *The drudgery of everyday commute*
 
