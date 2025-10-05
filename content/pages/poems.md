@@ -8,7 +8,7 @@ Modified: 2024-01-01
 
 ## My Original Poems
 
-### [Highway 101 - Morning Commute](/pages/highway-101-morning-commute.html)
+### [Morning Commute](/pages/morning-commute.html)
 *The drudgery of daily commute and the parallel lives of cars and their drivers*
 
 ### [Digital Nomad's Lament](/pages/digital-nomads-lament.html)
