@@ -45,6 +45,7 @@ SITELOGO = '/images/profile.jpg'
 MAIN_MENU = True
 MENUITEMS = (
     ('About', '/pages/about.html'),
+    ('Thoughts', '/pages/thoughts.html'),
     ('Archive', '/archives.html'),
 )
 
