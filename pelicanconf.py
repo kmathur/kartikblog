@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
-AUTHOR = 'Your Name'
-SITENAME = 'Your Blog'
+AUTHOR = 'Kartik'
+SITENAME = 'Midnight Musings'
 SITEURL = ''
 
 PATH = 'content'
@@ -37,8 +37,8 @@ THEME = 'themes/flex'
 
 # Flex theme specific settings
 SITETITLE = SITENAME
-SITESUBTITLE = 'A clean, minimalist blog'
-SITEDESCRIPTION = 'Personal blog and thoughts'
+SITESUBTITLE = 'Notes, musings, and reflections<br>on stuff that captures my curiosity'
+SITEDESCRIPTION = 'Midnight thoughts on technology, poetry, and life'
 SITELOGO = '/images/profile.jpg'
 
 # Clean, minimal styling similar to reference site
