@@ -8,51 +8,51 @@ Modified: 2024-01-01
 
 ## Philosophy & Personal Growth
 
-### [James Clear's Wisdom Archive](/pages/blog-james-clear-insights.html)
+### [James Clear's Wisdom Archive](/pages/james-clears-wisdom-archive.html)
 *Key insights from the master of habit formation*
 
-### [Tim Urban's Mind-Bending Essays](/pages/blog-wait-but-why-favorites.html)
+### [Tim Urban's Mind-Bending Essays](/pages/tim-urbans-mind-bending-essays.html)
 *Complex ideas made beautifully simple*
 
-### [Paul Graham's Startup Wisdom](/pages/blog-paul-graham-essays.html)
+### [Paul Graham's Startup Wisdom](/pages/paul-grahams-startup-wisdom.html)
 *Essays that shaped Silicon Valley thinking*
 
-### [Maria Popova's Beautiful Connections](/pages/blog-marginalian-gems.html)
+### [Maria Popova's Beautiful Connections](/pages/maria-popovas-beautiful-connections.html)
 *Where art, science, and philosophy intersect*
 
 ## Technology & Innovation
 
-### [Joel Spolsky's Classic Insights](/pages/blog-joel-software-classics.html)
+### [Joel Spolsky's Classic Insights](/pages/joel-spolskys-classic-insights.html)
 *Timeless wisdom on building software and teams*
 
-### [DHH's Contrarian Views](/pages/blog-dhh-signal-noise.html)
+### [DHH's Contrarian Views](/pages/dhhs-contrarian-views.html)
 *Challenging conventional startup wisdom*
 
-### [Ben Thompson's Strategic Analysis](/pages/blog-stratechery-insights.html)
+### [Ben Thompson's Strategic Analysis](/pages/ben-thompsons-strategic-analysis.html)
 *Decoding the technology industry*
 
 ## Creative Process
 
-### [Austin Kleon's Creative Sparks](/pages/blog-austin-kleon-creativity.html)
+### [Austin Kleon's Creative Sparks](/pages/austin-kleons-creative-sparks.html)
 *Stealing ideas and making art in the digital age*
 
-### [Seth Godin's Daily Provocations](/pages/blog-seth-godin-favorites.html)
+### [Seth Godin's Daily Provocations](/pages/seth-godins-daily-provocations.html)
 *Short posts that change how you see the world*
 
 ## Mental Models & Decision Making
 
-### [Farnam Street's Thinking Tools](/pages/blog-farnam-street-models.html)
+### [Farnam Street's Thinking Tools](/pages/farnam-streets-thinking-tools.html)
 *Frameworks for better thinking and decision making*
 
-### [Naval's Twitter Philosophy](/pages/blog-naval-tweetstorms.html)
+### [Naval's Twitter Philosophy](/pages/navals-twitter-philosophy.html)
 *Profound insights in 280 characters or less*
 
 ## My Own Reflections
 
-### [Weekly Thought Experiments](/pages/blog-weekly-experiments.html)
+### [Weekly Thought Experiments](/pages/weekly-thought-experiments.html)
 *Questions I'm pondering and insights I'm testing*
 
-### [Learning Log Entries](/pages/blog-learning-log.html)
+### [Learning Log Entries](/pages/learning-log-entries.html)
 *What I'm discovering and how it's changing my perspective*
 
 ---
