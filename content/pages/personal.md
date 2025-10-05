@@ -6,9 +6,18 @@ Modified: 2024-01-01
 
 This is where I share my personal reflections, experiences, and insights about life, growth, and the journey ahead.
 
-## Recent Personal Posts
+## Explore My Personal World
 
-*Personal blog posts will appear here as they are written.*
+Dive into the things that inspire, challenge, and shape my perspective:
+
+### 📝 [Poems](/pages/poems.html)
+*A collection of verses that speak to the soul - both my own writing and pieces that have moved me*
+
+### 💭 [Recommendations](/pages/recommendations.html)  
+*Books, tools, resources, and experiences that have influenced my thinking and growth*
+
+### 🌐 [Blogs](/pages/blogs.html)
+*Curated thoughts and reflections on life, technology, and the human experience*
 
 ---
 
