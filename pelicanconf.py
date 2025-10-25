@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 
 AUTHOR = 'Kartik'
-SITENAME = 'Midnight Musings'
+SITENAME = 'Kartik's log'
 SITEURL = ''
 
 PATH = 'content'
@@ -19,8 +19,8 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'https://getpelican.com/'),
-         ('Python.org', 'https://www.python.org/'),)
+# LINKS = (('Pelican', 'https://getpelican.com/'),
+#          ('Python.org', 'https://www.python.org/'),)
 
 # Social widget
 SOCIAL = (('GitHub', '#'),
