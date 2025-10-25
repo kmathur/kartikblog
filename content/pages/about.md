@@ -2,7 +2,7 @@ Title: About
 Date: 2024-01-01
 Modified: 2024-01-01
 
-# About Me
+## About me
 
 Hey there! I'm Kartik Mathur, and welcome to my little corner of the internet.
 

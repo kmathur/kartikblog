@@ -4,8 +4,6 @@ Category: General
 Tags: welcome, introduction
 Slug: welcome-to-my-blog
 
-# Welcome to My Blog
-
 This is my first post on this new blog! I'm excited to share my thoughts, experiences, and insights with you.
 
 ## What to Expect
