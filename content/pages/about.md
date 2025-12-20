@@ -1,4 +1,4 @@
-Title: About
+Title: About me
 Date: 2024-01-01
 Modified: 2024-01-01
 
