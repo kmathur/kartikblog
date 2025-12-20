@@ -12,4 +12,4 @@ This is where I share my thoughts on technology, programming, industry trends, a
 
 ---
 
-[← Back to Thoughts](/pages/thoughts.html)
+[← Back to Thoughts](https://kmathur.github.io/kartikblog/pages/thoughts.html)
