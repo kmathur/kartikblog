@@ -91,9 +91,13 @@ PAGE_SAVE_AS = 'pages/{slug}.html'
 STATIC_PATHS = ['images', 'extra']
 EXTRA_PATH_METADATA = {
     'extra/custom.css': {'path': 'static/custom.css'},
+    'extra/favicon.ico': {'path': 'favicon.ico'},
 }
 
 CUSTOM_CSS = 'static/custom.css'
+
+# Favicon
+FAVICON = 'favicon.ico'
 
 # GitHub Pages settings
 RELATIVE_URLS = False
