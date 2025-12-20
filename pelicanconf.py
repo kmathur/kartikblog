@@ -3,7 +3,7 @@
 
 AUTHOR = 'Kartik'
 SITENAME = "Kartik Mathur"
-SITEURL = ''
+SITEURL = 'https://kartik.com'
 
 PATH = 'content'
 
@@ -39,14 +39,14 @@ THEME = 'themes/flex'
 SITETITLE = SITENAME
 SITESUBTITLE = 'Notes, musings, and reflections<br>on stuff that captures my curiosity'
 SITEDESCRIPTION = 'Midnight thoughts on technology, poetry, and life'
-SITELOGO = '/images/profile.jpg'
+SITELOGO = 'https://kartik.com/images/profile.JPG'
 
 # Clean, minimal styling similar to reference site
 MAIN_MENU = True
 MENUITEMS = (
-    ('About', '/pages/about.html'),
-    ('Thoughts', '/pages/thoughts.html'),
-    ('Archive', '/archives.html'),
+    ('About', 'https://kartik.com/pages/about-me.html'),
+    ('Thoughts', 'https://kartik.com/pages/thoughts.html'),
+    ('Archive', 'https://kartik.com/archives.html'),
 )
 
 # Disable some features for cleaner look
@@ -55,9 +55,9 @@ DISPLAY_PAGES_ON_MENU = False
 
 # Social links in footer
 SOCIAL = (
-    ('github', 'https://github.com/yourusername'),
-    ('twitter', 'https://twitter.com/yourusername'),
-    ('linkedin', 'https://linkedin.com/in/yourusername'),
+    ('github', 'https://github.com/kmathur'),
+    ('twitter', '#'),
+    ('linkedin', '#'),
 )
 
 # Clean pagination
