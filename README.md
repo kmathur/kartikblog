@@ -2,7 +2,7 @@
 
 A clean, minimalist blog built with Pelican and the Flex theme, designed to be simple and focused on content.
 
-**Live Site:** https://kartik.com
+**Live Site:** https://kmathur.github.io/kartikblog
 
 ## Setup
 
@@ -95,7 +95,7 @@ Modified: 2024-12-20
 # Your content here...
 
 # 3. Use ABSOLUTE URLs for internal links:
-[Link Text](https://kartik.com/pages/other-page.html)
+[Link Text](https://kmathur.github.io/kartikblog/pages/other-page.html)
 
 # 4. Deploy (same as editing)
 python3 -m pelican content -o output -s publishconf.py
@@ -110,7 +110,7 @@ You can create a simple script:
 python3 -m pelican content -o output -s publishconf.py
 python3 -m ghp_import -m "Update blog content" -b gh-pages output
 git push origin gh-pages
-echo "Deployed! Check https://kartik.com in 2-3 minutes"
+echo "Deployed! Check https://kmathur.github.io/kartikblog in 2-3 minutes"
 ```
 
 ### 📁 **File Structure**
@@ -123,9 +123,9 @@ echo "Deployed! Check https://kartik.com in 2-3 minutes"
 - Always use **absolute URLs** for internal links
 - Wait 2-3 minutes after push for GitHub Pages to update
 - Use `publishconf.py` for deployment (not `pelicanconf.py`)
-- Images go in `content/images/` and reference as `![alt](https://kartik.com/images/filename.jpg)`
+- Images go in `content/images/` and reference as `![alt](https://kmathur.github.io/kartikblog/images/filename.jpg)`
 
-**Your site updates at: https://kartik.com** (or https://kmathur.github.io/kartikblog)
+**Your site updates at: https://kmathur.github.io/kartikblog**
 
 ## Customization
 

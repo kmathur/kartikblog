@@ -3,7 +3,7 @@
 
 AUTHOR = 'Kartik'
 SITENAME = "Kartik Mathur"
-SITEURL = 'https://kartik.com'
+SITEURL = 'https://kmathur.github.io/kartikblog'
 
 PATH = 'content'
 
@@ -39,14 +39,14 @@ THEME = 'themes/flex'
 SITETITLE = SITENAME
 SITESUBTITLE = 'Notes, musings, and reflections<br>on stuff that captures my curiosity'
 SITEDESCRIPTION = 'Midnight thoughts on technology, poetry, and life'
-SITELOGO = 'https://kartik.com/images/profile.JPG'
+SITELOGO = 'https://kmathur.github.io/kartikblog/images/profile.JPG'
 
 # Clean, minimal styling similar to reference site
 MAIN_MENU = True
 MENUITEMS = (
-    ('About', 'https://kartik.com/pages/about-me.html'),
-    ('Thoughts', 'https://kartik.com/pages/thoughts.html'),
-    ('Archive', 'https://kartik.com/archives.html'),
+    ('About', 'https://kmathur.github.io/kartikblog/pages/about-me.html'),
+    ('Thoughts', 'https://kmathur.github.io/kartikblog/pages/thoughts.html'),
+    ('Archive', 'https://kmathur.github.io/kartikblog/archives.html'),
 )
 
 # Disable some features for cleaner look

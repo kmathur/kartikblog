@@ -10,15 +10,15 @@ This is where I share my personal reflections, experiences, and insights about l
 
 Dive into the things that inspire, challenge, and shape my perspective:
 
-### 📝 [Poems](https://kartik.com/pages/poems.html)
+### 📝 [Poems](https://kmathur.github.io/kartikblog/pages/poems.html)
 *A collection of verses that speak to the soul - both my own writing and pieces that have moved me*
 
-### 💭 [Recommendations](https://kartik.com/pages/recommendations.html)  
+### 💭 [Recommendations](https://kmathur.github.io/kartikblog/pages/recommendations.html)  
 *Books, tools, resources, and experiences that have influenced my thinking and growth*
 
-### 🌐 [Blogs](https://kartik.com/pages/blogs.html)
+### 🌐 [Blogs](https://kmathur.github.io/kartikblog/pages/blogs.html)
 *Curated thoughts and reflections on life, technology, and the human experience*
 
 ---
 
-[← Back to Thoughts](https://kartik.com/pages/thoughts.html)
+[← Back to Thoughts](https://kmathur.github.io/kartikblog/pages/thoughts.html)
