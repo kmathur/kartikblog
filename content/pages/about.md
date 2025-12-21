@@ -8,7 +8,7 @@ Hey there! I'm Kartik Mathur, and welcome to my little corner of the internet.
 
 Currently, I'm the Director of Engineering at [Snorkel AI](https://snorkel.ai), where I lead the teams responsible for building and scaling the AI infrastructure behind the Snorkel labeling platform. Previously, I served as an Engineering Manager at Domino Data Lab, driving initiatives in machine learning and data infrastructure.
 
-I'm passionate about open-source software and have been an active contributor to the cloud-native ecosystem. During my time at Hewlett Packard Enterprise (HPE), I served as a Master Technologist, leading MLOps initiatives on the HPE Ezmeral Software Platform and contributing extensively to the [KubeDirector project](https://github.com/kubeflow/kubeflow). My work has been recognized by the broader community, including an invited talk at the Cloud Native Computing Foundation (CNCF) on Building Dynamic Machine Learning Pipelines with KubeDirector.
+I'm passionate about open-source software and have been an active contributor to the cloud-native ecosystem. During my time at Hewlett Packard Enterprise (HPE), I served as a Master Technologist, leading MLOps initiatives on the HPE Ezmeral Software Platform and contributing extensively to the [KubeDirector project](https://github.com/bluek8s/kubedirector). My work has been recognized by the broader community, including an invited talk at the Cloud Native Computing Foundation (CNCF) on Building Dynamic Machine Learning Pipelines with KubeDirector.
 
 ## My Journey
 

@@ -4,7 +4,7 @@ Modified: 2024-01-01
 Category: Poetry
 
 
-*The drudgery of everyday commute*
+*The drudgery of my commute*
 
 ---
 
