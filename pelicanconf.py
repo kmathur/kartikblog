@@ -96,8 +96,8 @@ EXTRA_PATH_METADATA = {
 
 CUSTOM_CSS = 'static/custom.css'
 
-# Favicon
-FAVICON = 'favicon.ico'
+# Favicon - use absolute path for all pages
+FAVICON = '/favicon.ico'
 
 # GitHub Pages settings
 RELATIVE_URLS = False
