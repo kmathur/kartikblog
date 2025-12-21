@@ -3,7 +3,7 @@
 
 AUTHOR = 'Kartik'
 SITENAME = "Kartik Mathur"
-SITEURL = 'https://kmathur.github.io/kartikblog'
+SITEURL = ''
 
 PATH = 'content'
 
@@ -96,7 +96,7 @@ EXTRA_PATH_METADATA = {
 
 CUSTOM_CSS = 'static/custom.css'
 
-# Favicon - use absolute path for all pages
+# Favicon - absolute path works for both local and production
 FAVICON = '/favicon.ico'
 
 # GitHub Pages settings
