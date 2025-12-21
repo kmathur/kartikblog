@@ -57,7 +57,7 @@ DISPLAY_PAGES_ON_MENU = False
 SOCIAL = (
     ('github', 'https://github.com/kmathur'),
     ('twitter', '#'),
-    ('linkedin', '#'),
+    ('linkedin', 'https://www.linkedin.com/in/mathurkartik/'),
 )
 
 # Clean pagination
