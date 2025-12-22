@@ -87,7 +87,8 @@ ARTICLE_URL = 'posts/{date:%Y}/{date:%m}/{slug}.html'
 ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%m}/{slug}.html'
 
 # Preserve directory structure for pages
-PATH_METADATA = r'pages/(?P<path>.*)\\..*'
+PAGE_PATHS = ['pages']
+PATH_METADATA = r'pages/(?P<path>.*?)(?:/index)?\..*'
 PAGE_URL = '{path}/'
 PAGE_SAVE_AS = '{path}/index.html'
 USE_FOLDER_AS_CATEGORY = False
