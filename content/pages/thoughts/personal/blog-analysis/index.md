@@ -2,18 +2,18 @@ Title: Blog Analysis
 Date: 2024-01-01
 Modified: 2024-01-01
 
-# Blog Analysis & Commentary
+# My Reflections
 
-*Deep dives into influential blogs and online voices that shape thinking*
+*Random musing and my commentary on various topics*
 
-## Featured Analysis
 
-### [Tim Urban's Mind-Bending Essays](/kartikblog/thoughts/personal/blog-analysis/tim-urbans-mind-bending-essays/)
-*Wait But Why - Complex ideas made beautifully simple*
+### [Why I Blog in the age of AI](/kartikblog/thoughts/personal/blog-analysis/blog-in-the-age-of-ai/)
 
-## About This Section
+### [Where am I right now](/kartikblog/thoughts/personal/blog-analysis/where-i-am-right-now/)
 
-Here I explore influential blogs, online voices, and digital content creators who have shaped modern discourse. These are deep dives into not just what these voices say, but how they think, communicate, and influence our understanding of complex topics.
+### [About God](/kartikblog/thoughts/personal/blog-analysis/about-god/)
+
+
 
 ---
 
