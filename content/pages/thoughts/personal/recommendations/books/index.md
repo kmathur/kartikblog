@@ -8,7 +8,7 @@ Modified: 2024-01-01
 
 ## Reviews of my favorite books
 
-### [Atomic Habits by James Clear](/kartikblog/thoughts/personal/recommendations/books/atomic-habits-by-james-clear/)
+### [Atomic Habits by James Clear](/kartikblog/thoughts/personal/recommendations/books/rec-atomic-habits/)
 *The compound effect of small changes in building remarkable results*
 
 
