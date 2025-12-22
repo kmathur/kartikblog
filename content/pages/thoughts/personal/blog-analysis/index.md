@@ -8,13 +8,13 @@ Modified: 2024-01-01
 
 
 Dec 18, 2025
-### [Why I Blog in the age of AI](/kartikblog/thoughts/personal/blog-analysis/blog-in-the-age-of-ai/)
+# [Why I Blog in the age of AI](/kartikblog/thoughts/personal/blog-analysis/blog-in-the-age-of-ai/)
 
-Dec 18, 2025
-### [Where am I right now](/kartikblog/thoughts/personal/blog-analysis/where-i-am-right-now/)
+Jan 16, 2026
+# [Where am I right now](/kartikblog/thoughts/personal/blog-analysis/where-i-am-right-now/)
 
-Dec 18, 2025
-### [About God](/kartikblog/thoughts/personal/blog-analysis/about-god/)
+Feb 11, 2026
+# [About God](/kartikblog/thoughts/personal/blog-analysis/about-god/)
 
 
 
