@@ -57,7 +57,7 @@ DISPLAY_PAGES_ON_MENU = False
 # Social links in footer
 SOCIAL = (
     ('github', 'https://github.com/kmathur'),
-    ('twitter', 'https://x.com/kartik_mathur'),
+    ('twitter', 'https://x.com/kartik_mathur01'),
     ('linkedin', 'https://www.linkedin.com/in/mathurkartik/'),
 )
 
