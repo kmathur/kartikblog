@@ -38,7 +38,7 @@ THEME = 'themes/flex'
 # Flex theme specific settings
 SITETITLE = SITENAME
 SITESUBTITLE = 'Notes, musings, and reflections<br>on stuff that captures my curiosity'
-SITEDESCRIPTION = 'Midnight thoughts on technology, poetry, and life'
+SITEDESCRIPTION = 'My notes about life and things that I find interesting'
 SITELOGO = 'https://kmathur.github.io/kartikblog/images/profile.JPG'
 
 # Clean, minimal styling similar to reference site
