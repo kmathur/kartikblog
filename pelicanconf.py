@@ -44,9 +44,9 @@ SITELOGO = 'https://kmathur.github.io/kartikblog/images/profile.JPG'
 # Clean, minimal styling similar to reference site
 MAIN_MENU = True
 MENUITEMS = (
-    ('About', 'https://kmathur.github.io/kartikblog/pages/about-me.html'),
-    ('Thoughts', 'https://kmathur.github.io/kartikblog/pages/thoughts.html'),
-    ('Archive', 'https://kmathur.github.io/kartikblog/archives.html'),
+    ('About', '/pages/about.html'),
+    ('Thoughts', '/pages/thoughts/'),
+    ('Archive', '/archives.html'),
 )
 
 # Disable some features for cleaner look
@@ -84,8 +84,14 @@ COPYRIGHT_NAME = AUTHOR
 INDEX_SAVE_AS = 'index.html'
 ARTICLE_URL = 'posts/{date:%Y}/{date:%m}/{slug}.html'
 ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%m}/{slug}.html'
+# Preserve directory structure in URLs  
+USE_FOLDER_AS_CATEGORY = False
 PAGE_URL = 'pages/{slug}.html'
 PAGE_SAVE_AS = 'pages/{slug}.html'
+
+# Enable directory-based page organization
+DISPLAY_PAGES_ON_MENU = False
+MENUITEMS_BEFORE_PAGES = True
 
 # Custom CSS and static files
 STATIC_PATHS = ['images', 'extra']
