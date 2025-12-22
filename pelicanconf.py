@@ -45,7 +45,7 @@ SITELOGO = 'https://kmathur.github.io/kartikblog/images/profile.JPG'
 MAIN_MENU = True
 # Navigation: prefix with SITEURL so links work on GitHub Pages (project subpath) and locally
 MENUITEMS = (
-    ('About', f"{SITEURL}/about-me/"),
+    ('About', f"{SITEURL}/about/"),
     ('Thoughts', f"{SITEURL}/thoughts/"),
     ('Archive', f"{SITEURL}/archives.html"),
 )
