@@ -2,7 +2,7 @@ Title: Recommendations
 Date: 2024-01-01
 Modified: 2024-01-01
 
-# Life-Changing Recommendations
+# My favourites
 
 *Curated wisdom that has shaped my perspective - books, movies, music, and experiences that continue to influence my journey*
 

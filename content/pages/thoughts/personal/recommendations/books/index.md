@@ -6,14 +6,13 @@ Modified: 2024-01-01
 
 *Curated collection of transformative reads that have shaped my thinking and approach to life*
 
-## Life-Changing Reads
+## Reviews of my favorite books
 
 ### [Atomic Habits by James Clear](/kartikblog/thoughts/personal/recommendations/books/atomic-habits-by-james-clear/)
 *The compound effect of small changes in building remarkable results*
 
-## Categories
 
-### Philosophy & Personal Growth
+### Philosophy
 *Books that challenge how we think about existence and growth*
 
 ### Technology & Innovation  
@@ -22,7 +21,7 @@ Modified: 2024-01-01
 ### Biography & Memoir
 *Stories of remarkable individuals and their journeys*
 
-### Fiction That Teaches
+### Fiction
 *Novels that illuminate the human condition*
 
 ---
