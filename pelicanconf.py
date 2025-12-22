@@ -44,8 +44,8 @@ SITELOGO = 'https://kmathur.github.io/kartikblog/images/profile.JPG'
 # Clean, minimal styling similar to reference site
 MAIN_MENU = True
 MENUITEMS = (
-    ('About', '/pages/about.html'),
-    ('Thoughts', '/pages/thoughts/'),
+    ('About', '/pages/about-me.html'),
+    ('Thoughts', '/pages/thoughts.html'),
     ('Archive', '/archives.html'),
 )
 
