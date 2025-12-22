@@ -54,4 +54,4 @@ The final line—"One missed step and it's all over"—speaks to the fragility h
 
 ---
 
-[← Back to Poems](/pages/poems.html) | [← Back to Personal](/pages/personal.html)
+[← Back to Poems](/kartikblog/thoughts/personal/poems/) | [← Back to Personal](/kartikblog/thoughts/personal/)

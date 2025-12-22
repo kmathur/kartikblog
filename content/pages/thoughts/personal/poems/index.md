@@ -8,7 +8,7 @@ Modified: 2024-01-01
 
 ## My Original Poems
 
-### [Morning Commute](/pages/thoughts/personal/poems/morning-commute/)
+### [Morning Commute](/kartikblog/thoughts/personal/poems/morning-commute/)
 *The drudgery of daily commute and the parallel lives of cars and their drivers*
 
 *More poems will appear here as they are written*
@@ -27,4 +27,4 @@ Poetry, for me, is about capturing those fleeting moments of clarity - the obser
 
 *"Poetry is when an emotion has found its thought and the thought has found words."* - Robert Frost
 
-[← Back to Personal](/pages/thoughts/personal/) | [← Back to Thoughts](/pages/thoughts/) | [← Back to Home](/)
+[← Back to Personal](/kartikblog/thoughts/personal/) | [← Back to Thoughts](/kartikblog/thoughts/) | [← Back to Home](/kartikblog/)

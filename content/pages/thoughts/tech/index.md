@@ -36,4 +36,4 @@ Modified: 2024-01-01
 
 *"The best way to predict the future is to invent it."* - Alan Kay
 
-[← Back to Thoughts](/pages/thoughts/) | [← Back to Home](/)
+[← Back to Thoughts](/kartikblog/thoughts/) | [← Back to Home](/kartikblog/)

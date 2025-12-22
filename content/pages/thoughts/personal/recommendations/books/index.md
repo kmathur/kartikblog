@@ -8,7 +8,7 @@ Modified: 2024-01-01
 
 ## Life-Changing Reads
 
-### [Atomic Habits by James Clear](/pages/thoughts/personal/recommendations/books/atomic-habits-by-james-clear/)
+### [Atomic Habits by James Clear](/kartikblog/thoughts/personal/recommendations/books/atomic-habits-by-james-clear/)
 *The compound effect of small changes in building remarkable results*
 
 ## Categories
@@ -29,4 +29,4 @@ Modified: 2024-01-01
 
 *"A reader lives a thousand lives before he dies. The man who never reads lives only one."* - George R.R. Martin
 
-[← Back to Recommendations](/pages/thoughts/personal/recommendations/) | [← Back to Personal](/pages/thoughts/personal/) | [← Back to Home](/)
+[← Back to Recommendations](/kartikblog/thoughts/personal/recommendations/) | [← Back to Personal](/kartikblog/thoughts/personal/) | [← Back to Home](/kartikblog/)

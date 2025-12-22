@@ -85,4 +85,4 @@ The most profound insight: focus on who you want to become, not what you want to
 
 ---
 
-[← Back to Recommendations](/pages/recommendations.html) | [← Back to Personal](/pages/personal.html)
+[← Back to Recommendations](/kartikblog/thoughts/personal/recommendations/) | [← Back to Personal](/kartikblog/thoughts/personal/)

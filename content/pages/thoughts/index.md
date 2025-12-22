@@ -8,12 +8,12 @@ Welcome to my thoughts section, where I explore ideas across different domains t
 
 ## Explore by Category
 
-### 🧠 [Personal](/pages/thoughts/personal/)
+### 🧠 [Personal](/kartikblog/thoughts/personal/)
 *Personal reflections, experiences, poetry, and things that shape my perspective*
-- **[Poems](/pages/thoughts/personal/poems/)** - Verses that capture moments and emotions
-- **[Recommendations](/pages/thoughts/personal/recommendations/)** - Books, media, and experiences I treasure
+- **[Poems](/kartikblog/thoughts/personal/poems/)** - Verses that capture moments and emotions
+- **[Recommendations](/kartikblog/thoughts/personal/recommendations/)** - Books, media, and experiences I treasure
 
-### ⚙️ [Tech](/pages/thoughts/tech/)
+### ⚙️ [Tech](/kartikblog/thoughts/tech/)
 *Technical insights, industry observations, and technology explorations*
 - Engineering leadership and distributed systems
 - AI/ML infrastructure and deployment strategies
@@ -23,4 +23,4 @@ Welcome to my thoughts section, where I explore ideas across different domains t
 
 *"The best way to find out if you can trust somebody is to trust them."* - Ernest Hemingway
 
-[← Back to Home](/)
+[← Back to Home](/kartikblog/)

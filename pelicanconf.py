@@ -87,8 +87,9 @@ ARTICLE_URL = 'posts/{date:%Y}/{date:%m}/{slug}.html'
 ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%m}/{slug}.html'
 
 # Preserve directory structure for pages
-PAGE_URL = '{slug}/'
-PAGE_SAVE_AS = '{slug}/index.html'
+PATH_METADATA = r'pages/(?P<path>.*)\\..*'
+PAGE_URL = '{path}/'
+PAGE_SAVE_AS = '{path}/index.html'
 USE_FOLDER_AS_CATEGORY = False
 
 # Enable directory-based page organization  

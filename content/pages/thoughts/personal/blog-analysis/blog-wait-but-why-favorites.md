@@ -101,4 +101,4 @@ This blog taught me that:
 
 ---
 
-[← Back to Blogs](/pages/blogs.html) | [← Back to Personal](/pages/personal.html)
+[← Back to Blogs](/kartikblog/thoughts/personal/blog-analysis/) | [← Back to Personal](/kartikblog/thoughts/personal/)

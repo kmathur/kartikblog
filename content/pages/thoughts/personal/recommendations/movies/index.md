@@ -24,4 +24,4 @@ Modified: 2024-01-01
 
 *Movies to be added soon...*
 
-[← Back to Recommendations](/pages/thoughts/personal/recommendations/) | [← Back to Personal](/pages/thoughts/personal/) | [← Back to Home](/)
+[← Back to Recommendations](/kartikblog/thoughts/personal/recommendations/) | [← Back to Personal](/kartikblog/thoughts/personal/) | [← Back to Home](/kartikblog/)

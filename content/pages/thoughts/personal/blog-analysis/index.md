@@ -8,7 +8,7 @@ Modified: 2024-01-01
 
 ## Featured Analysis
 
-### [Tim Urban's Mind-Bending Essays](/pages/thoughts/personal/blog-analysis/tim-urbans-mind-bending-essays/)
+### [Tim Urban's Mind-Bending Essays](/kartikblog/thoughts/personal/blog-analysis/tim-urbans-mind-bending-essays/)
 *Wait But Why - Complex ideas made beautifully simple*
 
 ## About This Section
@@ -17,4 +17,4 @@ Here I explore influential blogs, online voices, and digital content creators wh
 
 ---
 
-[← Back to Personal](/pages/thoughts/personal/) | [← Back to Thoughts](/pages/thoughts/) | [← Back to Home](/)
+[← Back to Personal](/kartikblog/thoughts/personal/) | [← Back to Thoughts](/kartikblog/thoughts/) | [← Back to Home](/kartikblog/)
