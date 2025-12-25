@@ -16,6 +16,9 @@ Jan 16, 2026
 Feb 11, 2026
 **[About God](/kartikblog/thoughts/personal/blog-analysis/about-god/)**
 
+Feb 17, 2026
+**[Trip to south italy](/kartikblog/thoughts/personal/blog-analysis/south-italy/)**
+
 
 
 ---
