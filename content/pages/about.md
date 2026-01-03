@@ -12,7 +12,7 @@ Before Snorkel, I was at Domino Data Lab, where I led the model deployment and m
 
 During that time, I co created the open source KubeDirector project, which was designed to support stateful machine learning applications on Kubernetes. That work was recognized by the broader cloud native community, including an invited talk at the Cloud Native Computing Foundation on building dynamic machine learning pipelines with KubeDirector
 
-My Journey
+## My Journey
 
 My path in technology began at AMD and continued through engineering leadership roles at several technology startups, including BlueData, which was acquired by HPE in 2019. Over the years, I have focused on building systems that sit beneath complex products, the kind that need to be reliable, scalable, and understandable by the teams who operate them.
 
@@ -28,7 +28,6 @@ This blog is where I share my thoughts on:
 - **Industry Insights**: Observations from the trenches of building AI/ML platforms at scale  
 - **Personal Reflections**: Musings on leadership, career growth, and the occasional non-tech topic
 - **Personal Projects**: Projects I'm working on or contributions to the open source community
-
 
 ## Get In Touch
 
