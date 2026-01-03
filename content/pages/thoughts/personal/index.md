@@ -5,14 +5,18 @@ Modified: 2024-01-01
 # Notes from the Margins
 
 ### [Blogs](/kartikblog/thoughts/personal/blog-analysis/)
-*Essays on things I am currently thinking about*
-- Personal commentary on stuff I care about
+*Essays on things I am currently thinking and care about*
+
 
 ### [Recommendations](/kartikblog/thoughts/personal/recommendations/)
 *List of my current favorites and recommendations*
-- **[Books](/kartikblog/thoughts/personal/recommendations/books/)** - some of the books I enjoyed and my notes about them
+
+- **[Books](/kartikblog/thoughts/personal/recommendations/books/)** - some of the books I enjoyed and my review
+
 - **[Movies](/kartikblog/thoughts/personal/recommendations/movies/)** - Films that left an impression
+
 - **[Music](/kartikblog/thoughts/personal/recommendations/music/)** - Soundtracks to creativity
+
 - **[Podcasts](/kartikblog/thoughts/personal/recommendations/podcasts/)** - Voices that inspire and inform
 
 
