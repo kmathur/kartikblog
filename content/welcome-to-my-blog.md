@@ -1,22 +1,9 @@
-Title: Welcome to My Blog
-Date: 2024-01-30
+Title: Hello! 
+Date: 2026-01-30
 Category: General
 Tags: welcome, introduction
 Slug: welcome-to-my-blog
 
-This is my first post on this new blog! I'm excited to share my thoughts, experiences, and insights with you.
+In the age of AI generated content, I’m going a bit old school and using this space to write and share my own thoughts. I’ll write about things that interest me in general, along with technical topics around AI and large scale infrastructure.
 
-## What to Expect
-
-I'll be writing about various topics that interest me, including:
-
-- **Technology**: Programming languages, frameworks, and tools
-- **Projects**: Personal and professional projects I'm working on
-- **Learning**: New skills and concepts I'm exploring
-- **Industry Trends**: Thoughts on the tech industry and its evolution
-
-## Clean and Simple Design
-
-I've designed this blog to be clean and minimal, focusing on content over flashy design. The goal is to make it easy to read and navigate, so you can focus on what matters most - the ideas and information being shared.
-
-Thanks for visiting, and I hope you find the content valuable!
+I’ve been writing informally for quite some time, mostly for myself, and I’m now starting to compile and share some of those recent thoughts here. This is very much an experiment, a place to think out loud, explore ideas, and see where they lead. Ideally, I would love for this to grow into a small community where I can share ideas, learn from others, and have thoughtful conversations along the way
