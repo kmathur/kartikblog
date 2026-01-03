@@ -5,11 +5,11 @@ Modified: 2024-01-01
 # Notes from the Margins
 
 ### [Blogs](/kartikblog/thoughts/personal/blog-analysis/)
-*Essays on things I am currently thinking and care about
+Essays on things I am currently thinking and care about
 
 
 ### [Recommendations](/kartikblog/thoughts/personal/recommendations/)
-*Some of my favorites and recommendations
+Some of my favorites and recommendations
 
 - **[Books](/kartikblog/thoughts/personal/recommendations/books/)** - Some of the books I enjoyed and my views about them
 
