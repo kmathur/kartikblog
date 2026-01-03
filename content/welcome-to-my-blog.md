@@ -1,4 +1,4 @@
-Title: Hello! 
+Title: Welcome 
 Date: 2026-01-30
 Category: General
 Tags: welcome, introduction
