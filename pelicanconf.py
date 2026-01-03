@@ -46,8 +46,8 @@ MAIN_MENU = True
 # Navigation: prefix with SITEURL so links work on GitHub Pages (project subpath) and locally
 MENUITEMS = (
     ('About', f"{SITEURL}/about/"),
-    ('Thoughts', f"{SITEURL}/personal/"),
-    ('Technology', f"{SITEURL}/tech/"),
+    ('Thoughts', f"{SITEURL}/thoughtspersonal/"),
+    ('Technology', f"{SITEURL}/thoughts/tech/"),
     ('Archive', f"{SITEURL}/archives.html"),
 )
 
