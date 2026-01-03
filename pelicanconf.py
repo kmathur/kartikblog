@@ -79,7 +79,7 @@ DISABLE_URL_HASH = True
 SUMMARY_MAX_LENGTH = 0
 
 # Clean header and footer
-COPYRIGHT_YEAR = 2024
+COPYRIGHT_YEAR = 2026
 COPYRIGHT_NAME = AUTHOR
 
 # Minimal home page
