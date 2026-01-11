@@ -2,7 +2,7 @@ Title: Tech
 Date: 2024-01-01
 Modified: 2024-01-01
 
-# Technical Thoughts
+# Technical Insights
 
 *Insights from the trenches of building AI/ML platforms at scale*
 
@@ -10,9 +10,9 @@ Modified: 2024-01-01
 
 ### Engineering Leadership
 *Perspectives on building and scaling engineering teams*
-- Distributed systems architecture
-- Team dynamics and technical decision making
-- Balancing innovation with operational excellence
+- [Couple’s therapy for PM and EMs](./couple-therapy.md)
+- [Team dynamics and technical decision making](./team-dynamics-and-technical-decision-making.md)
+- [Balancing innovation with operational excellence](./balancing-innovation-with-operational-excellence.md)
 
 ### AI/ML Infrastructure  
 *Deep dives into machine learning platforms and deployment*
@@ -20,13 +20,8 @@ Modified: 2024-01-01
 - Large language model evaluation and optimization
 - Cost-efficient training and deployment strategies
 
-### Cloud-Native Technologies
-*Explorations in modern infrastructure and platforms*
-- Kubernetes and container orchestration
-- Open source contributions and community building
-- Developer experience and platform engineering
 
-### Industry Observations
+### AI industry commentary
 *Commentary on technology trends and their implications*
 - Startup scaling challenges and solutions
 - Technical debt and architectural evolution
