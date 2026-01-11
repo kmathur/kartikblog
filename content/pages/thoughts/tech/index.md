@@ -9,19 +9,20 @@ Modified: 2024-01-01
 ## What You'll Find Here
 
 ### Engineering Leadership
-*Perspectives on building and scaling engineering teams*
-- [Couple’s therapy for PM and EMs](./couple-therapy.md)
-- [Team dynamics and technical decision making](./team-dynamics-and-technical-decision-making.md)
-- [Balancing innovation with operational excellence](./balancing-innovation-with-operational-excellence.md)
+Dec 18, 2025
+**[Couple Therapy between EMs and PMs](/kartikblog/thoughts/personal/blog-analysis/tech/couple-therapy.md)**
 
-### AI/ML Infrastructure  
-*Deep dives into machine learning platforms and deployment*
-- MLOps best practices and tooling
-- Large language model evaluation and optimization
-- Cost-efficient training and deployment strategies
+Jan 10. 2025
+**[How did a rebuild a struggling team](/kartikblog/thoughts/personal/blog-analysis/struggling.md/)**
+
+### AI  
+**[Build LLM from scratch](/kartikblog/thoughts/personal/blog-analysis/tech/couple-therapy.md)**
+
+Jan 10. 2025
+**[Benchmarking in AI](/kartikblog/thoughts/personal/blog-analysis/struggling.md/)**
 
 
-### AI industry commentary
+### Tech industry commentary
 *Commentary on technology trends and their implications*
 - Startup scaling challenges and solutions
 - Technical debt and architectural evolution
