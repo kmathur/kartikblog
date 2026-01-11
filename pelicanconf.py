@@ -113,3 +113,6 @@ FAVICON = f"{SITEURL}/favicon.ico"
 
 # GitHub Pages settings
 RELATIVE_URLS = False
+
+# Comments
+DISQUS_SITENAME = "kmathur25"
