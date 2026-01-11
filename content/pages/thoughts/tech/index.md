@@ -8,18 +8,14 @@ Modified: 2024-01-01
 
 
 ### [Engineering Leadership]
-Dec 18, 2025  
-**[Couples Therapy between EMs and PMs](/kartikblog/thoughts/tech/couple-therapy/)**
+**[Couples Therapy between EMs and PMs](/kartikblog/thoughts/tech/couple-therapy/)** — Dec 18, 2025
 
-Jan 10, 2025  
-**[How did a fix a struggling team](/kartikblog/thoughts/tech/struggling/)**
+**[How did a fix a struggling team](/kartikblog/thoughts/tech/struggling/)** — Jan 10, 2025
 
 ### [AI]
-Jan 14, 2025  
-**[Build LLM from scratch](/kartikblog/thoughts/tech/build-llm-from-scratch/)**
+**[Build LLM from scratch](/kartikblog/thoughts/tech/build-llm-from-scratch/)** — Jan 14, 2025
 
-Jan 10, 2025  
-**[Benchmarking in AI](/kartikblog/thoughts/tech/benchmarking-in-ai/)**
+**[Benchmarking in AI](/kartikblog/thoughts/tech/benchmarking-in-ai/)** — Jan 10, 2025
 
 
 ### [Tech industry commentary]
