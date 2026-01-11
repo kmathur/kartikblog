@@ -39,7 +39,7 @@ THEME = 'themes/flex'
 SITETITLE = SITENAME
 SITESUBTITLE = 'Notes, musings, and reflections<br>on stuff that captures my curiosity'
 SITEDESCRIPTION = 'My notes about life and things that I find interesting'
-SITELOGO = 'https://kmathur.github.io/kartikblog/images/profile.JPG'
+SITELOGO = 'https://kmathur.github.io/kartikblog/images/profile.jpg'
 
 # Clean, minimal styling similar to reference site
 MAIN_MENU = True
