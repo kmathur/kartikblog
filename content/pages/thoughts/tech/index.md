@@ -10,10 +10,10 @@ Modified: 2024-01-01
 
 ### Engineering Leadership
 Dec 18, 2025
-**[Couple Therapy between EMs and PMs](/kartikblog/thoughts/personal/blog-analysis/tech/couple-therapy.md)**
+**[Couple Therapy between EMs and PMs](/kartikblog/thoughts/tech/couple-therapy.md)**
 
 Jan 10. 2025
-**[How did a rebuild a struggling team](/kartikblog/thoughts/personal/blog-analysis/struggling.md/)**
+**[How did a fix a struggling team](/kartikblog/thoughts/personal/blog-analysis/struggling.md/)**
 
 ### AI  
 **[Build LLM from scratch](/kartikblog/thoughts/personal/blog-analysis/tech/couple-therapy.md)**
