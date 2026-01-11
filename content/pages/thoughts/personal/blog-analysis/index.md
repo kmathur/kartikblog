@@ -10,6 +10,9 @@ Modified: 2024-01-01
 Dec 18, 2025
 **[Why I Blog in the age of AI](/kartikblog/thoughts/personal/blog-analysis/blog-in-the-age-of-ai/)**
 
+Jan 10. 2025
+**[List 100](/kartikblog/thoughts/personal/blog-analysis/list-100/)**
+
 Jan 16, 2026
 **[Where am I right now](/kartikblog/thoughts/personal/blog-analysis/where-i-am-right-now/)**
 
