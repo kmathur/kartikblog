@@ -1,8 +1,8 @@
-Title: Distributed systems architecture
+Title: Couples Therapy between EMs and PMs
 Date: 2026-01-11
 Category: Tech
 
-# My Notes
+# Couples Therapy between EMs and PMs
 
 No matter what your org chart says, if you’re building a lasting product, you’re in a product and tech relationship. Make it a good one.
 
