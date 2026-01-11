@@ -3,65 +3,65 @@ Date: 2026-01-01
 Modified: 2026-01-01
 Category: Blog
 
-## List 100 
+## List 100
 
-- [ ]  1. Watch India v/s Australia Boxing day test match in Australia
-- [ ]  2. African safari with Erisha
-- [ ]  3. Take my parents to Bali
-- [ ]  4. Perform music with my daughter in front of formal audience
-- [ ]  5. start piano youtube channel
-- [ ]  6. publish a book and see it getting sold in india
-- [x]  7. publish patents
-- [ ]  8. build something from scratch used by 100+ users (non friends and family)
-- [ ]  9. Body transformation
-- [ ]  10. run half marathon
-- [ ]  11. publish a python package
-- [x]  12. learn to play piano
-- [ ]  13.Sleep outside on the beach, under the sky
-- [ ]  14. Dancing lessons with Purva
-- [ ]  15. Perform stand-up in some local club/bar
-- [ ]  16. visit rural japan
-- [x]  17. visit rome
-- [ ]  18. Watch a Broadway show in New York
-- [ ]  19. take 6 months off from work and knock off items from my bucket list
-- [ ]  20. Climb Great wall, China
-- [ ]  21. Reach mid-handicap golf (10–18)
-- [ ]  22. Play in whites with leather ball in a Test ground
-- [ ]  23. See Auroras
-- [ ]  24. See a comet
-- [ ]  25. Meet Dalai Lama
-- [ ]  26. visit Kashmir
-- [ ]  27. Hike to Everest base camp
-- [x]  28. Scuba dive
-- [ ]  29. Learn to ski
-- [ ]  30. Learn to surf
-- [ ]  31. Start a non profit organization
-- [ ]  32. Read 500 books (currently 134)
-- [ ]  33. Swim a mile in open water
-- [ ]  34. visit bhutan
-- [ ]  35. watch a game at Wimbledon
-- [ ]  36. watch formula 1 race
-- [ ]  37. Zero gravity
-- [ ]  38. spend a day sailing
-- [ ]  39. visit east india
-- [ ]  40. organize a musical evening at my home
-- [x]  41. snowmobile in deep snow
-- [ ]  42. hike in alps
-- [ ]  43. visit Auschwitz
-- [ ]  44.  write and record a song
-- [ ]  46. walking food tour with Purva
-- [ ]  47. make wine
-- [x]  48. multi day solo trip
-- [x]  49. Have a Dog
-- [ ]  50. Maintain a blog
-- [ ]  51. own a side business
-- [x]  ~ 52. make people laugh
-- [x]  53.  feature as a guest in a podcast
-- [ ]  54. write a book of short stories
-- [x]  55. walk on a glacier
-- [ ]  56. run a foreign movie watch club
-- [ ]  57. visit cern lab with Purva
-- [x]  58. dog sledging in heavy snow
-- [ ]  59.  reach 1100 rating on [chess.com](http://chess.com)
-- [ ]  60. find my purpose in life
-- [ ]  61. live without internet for a month
+[ ] 1. Watch India v/s Australia Boxing day test match in Australia
+[ ] 2. African safari with Erisha
+[ ] 3. Take my parents to Bali
+[ ] 4. Perform music with my daughter in front of formal audience
+[ ] 5. start piano youtube channel
+[ ] 6. publish a book and see it getting sold in india
+[x] 7. publish patents
+[ ] 8. build something from scratch used by 100+ users (non friends and family)
+[ ] 9. Body transformation
+[ ] 10. run half marathon
+[ ] 11. publish a python package
+[x] 12. learn to play piano
+[ ] 13. Sleep outside on the beach, under the sky
+[ ] 14. Dancing lessons with Purva
+[ ] 15. Perform stand-up in some local club/bar
+[ ] 16. visit rural japan
+[x] 17. visit rome
+[ ] 18. Watch a Broadway show in New York
+[ ] 19. take 6 months off from work and knock off items from my bucket list
+[ ] 20. Climb Great wall, China
+[ ] 21. Reach mid-handicap golf (10–18)
+[ ] 22. Play in whites with leather ball in a Test ground
+[ ] 23. See Auroras
+[ ] 24. See a comet
+[ ] 25. Meet Dalai Lama
+[ ] 26. visit Kashmir
+[ ] 27. Hike to Everest base camp
+[x] 28. Scuba dive
+[ ] 29. Learn to ski
+[ ] 30. Learn to surf
+[ ] 31. Start a non profit organization
+[ ] 32. Read 500 books (currently 134)
+[ ] 33. Swim a mile in open water
+[ ] 34. visit bhutan
+[ ] 35. watch a game at Wimbledon
+[ ] 36. watch formula 1 race
+[ ] 37. Zero gravity
+[ ] 38. spend a day sailing
+[ ] 39. visit east india
+[ ] 40. organize a musical evening at my home
+[x] 41. snowmobile in deep snow
+[ ] 42. hike in alps
+[ ] 43. visit Auschwitz
+[ ] 44. write and record a song
+[ ] 46. walking food tour with Purva
+[ ] 47. make wine
+[x] 48. multi day solo trip
+[x] 49. Have a Dog
+[ ] 50. Maintain a blog
+[ ] 51. own a side business
+[x] ~ 52. make people laugh
+[x] 53. feature as a guest in a podcast
+[ ] 54. write a book of short stories
+[x] 55. walk on a glacier
+[ ] 56. run a foreign movie watch club
+[ ] 57. visit cern lab with Purva
+[x] 58. dog sledging in heavy snow
+[ ] 59. reach 1100 rating on [chess.com](http://chess.com)
+[ ] 60. find my purpose in life
+[ ] 61. live without internet for a month
