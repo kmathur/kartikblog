@@ -1,4 +1,9 @@
-# List 100
+Title: 100 Things I aspire to do/experience in life
+Date: 2026-01-01
+Modified: 2026-01-01
+Category: Blog
+
+## List 100 
 
 - [ ]  1. Watch India v/s Australia Boxing day test match in Australia
 - [ ]  2. African safari with Erisha
