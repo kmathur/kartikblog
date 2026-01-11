@@ -8,21 +8,22 @@ Modified: 2024-01-01
 
 ## What You'll Find Here
 
-### Engineering Leadership
+### [Engineering Leadership]
 Dec 18, 2025
 **[Couple Therapy between EMs and PMs](/kartikblog/thoughts/tech/couple-therapy.md)**
 
 Jan 10. 2025
-**[How did a fix a struggling team](/kartikblog/thoughts/personal/blog-analysis/struggling.md/)**
+**[How did a fix a struggling team](/kartikblog/thoughts/tech/struggling.md/)**
 
-### AI  
-**[Build LLM from scratch](/kartikblog/thoughts/personal/blog-analysis/tech/couple-therapy.md)**
+### [AI]
+Jan 14. 2025
+**[Build LLM from scratch](/kartikblog/thoughts/tech/couple-therapy.md)**
 
 Jan 10. 2025
-**[Benchmarking in AI](/kartikblog/thoughts/personal/blog-analysis/struggling.md/)**
+**[Benchmarking in AI](/kartikblog/thoughts/tech/struggling.md/)**
 
 
-### Tech industry commentary
+### [Tech industry commentary]
 *Commentary on technology trends and their implications*
 - Startup scaling challenges and solutions
 - Technical debt and architectural evolution
