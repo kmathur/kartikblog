@@ -10,7 +10,7 @@ Modified: 2024-01-01
 
 ### [Engineering Leadership]
 Dec 18, 2025
-**[Couple Therapy between EMs and PMs](/kartikblog/thoughts/tech/couple-therapy.md)**
+**[Couples Therapy between EMs and PMs](/kartikblog/thoughts/tech/couple-therapy.md)**
 
 Jan 10. 2025
 **[How did a fix a struggling team](/kartikblog/thoughts/tech/struggling.md/)**
