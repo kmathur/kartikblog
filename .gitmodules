@@ -1,2 +1,3 @@
 [submodule "themes/flex"]
-	url = git@github.com:kmathur/Flex.git
+    path = themes/flex
+    url = git@github.com:kmathur/Flex.git
