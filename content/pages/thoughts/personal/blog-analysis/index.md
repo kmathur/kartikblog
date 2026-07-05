@@ -6,6 +6,8 @@ Modified: 2024-01-01
 
 *Random musing and my commentary on various topics*
 
+Jul 5, 2026
+**[When a book knows you](/kartikblog/thoughts/personal/blog-analysis/jhumpa/)**
 
 Dec 18, 2025
 **[Why I Blog in the age of AI](/kartikblog/thoughts/personal/blog-analysis/blog-in-the-age-of-ai/)**
