@@ -45,7 +45,8 @@ SITELOGO = 'https://kmathur.github.io/kartikblog/images/profile.jpg'
 MAIN_MENU = True
 # Navigation: prefix with SITEURL so links work on GitHub Pages (project subpath) and locally
 MENUITEMS = (
-    ('About', f"{SITEURL}/about/"),
+    ('Home', f"{SITEURL}/"),
+    ('Blog', f"{SITEURL}/blog.html"),
     ('Thoughts', f"{SITEURL}/thoughts/personal/"),
     ('Technology', f"{SITEURL}/thoughts/tech/"),
     ('Archive', f"{SITEURL}/archives.html"),
@@ -83,8 +84,8 @@ SUMMARY_MAX_LENGTH = 0
 COPYRIGHT_YEAR = 2026
 COPYRIGHT_NAME = AUTHOR
 
-# Minimal home page
-INDEX_SAVE_AS = 'index.html'
+# About page as home page (handled by page metadata)
+INDEX_SAVE_AS = 'blog.html'
 ARTICLE_URL = 'posts/{date:%Y}/{date:%m}/{slug}.html'
 ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%m}/{slug}.html'
 

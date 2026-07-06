@@ -1,8 +1,8 @@
-Title: Welcome 
+Title: Welcome (Archived)
 Date: 2026-01-30
 Category: General
-Tags: welcome, introduction
-Slug: welcome-to-my-blog
+Tags: welcome, introduction, archived
+Slug: welcome-to-my-blog-archived
 
 
 In the age of AI-generated content, I’m going a bit old-school and using this space to write and share my own thoughts. I’ll write about things that interest me in general, along with technical topics around AI and large-scale infrastructure.
