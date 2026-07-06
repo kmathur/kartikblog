@@ -7,22 +7,25 @@ Modified: 2024-01-01
 *Insights from the trenches of building AI/ML platforms at scale*
 
 
-### [Engineering Leadership]
-**[Couples Therapy between EMs and PMs](/kartikblog/thoughts/tech/couple-therapy/)** — Dec 18, 2025
+## Engineering Leadership
+*Leading technical teams and building high-performing engineering organizations*
 
-**[How did a fix a struggling team](/kartikblog/thoughts/tech/struggling/)** — Jan 10, 2025
+**[Couples Therapy between EMs and PMs](/kartikblog/thoughts/tech/couple-therapy/)** — Jan 11, 2026
+Building lasting partnerships between engineering and product management
 
-### [AI]
-**[Build LLM from scratch](/kartikblog/thoughts/tech/build-llm-from-scratch/)** — Jan 14, 2025
+**[Team Dynamics and Technical Decision Making](/kartikblog/thoughts/tech/team-dynamics-and-technical-decision-making/)** — Jan 11, 2026
+How team structure influences technical choices and outcomes
 
-**[Benchmarking in AI](/kartikblog/thoughts/tech/benchmarking-in-ai/)** — Jan 10, 2025
+## AI & Machine Learning
+*Insights from building AI/ML platforms and systems*
 
+*Coming soon: Deep dives into LLM architecture, evaluation frameworks, and production deployment strategies*
 
-### [Tech industry commentary]
-*Commentary on technology trends and their implications*
-- Startup scaling challenges and solutions
-- Technical debt and architectural evolution
-- The intersection of business strategy and technology
+## Tech Industry Commentary
+*Analysis of technology trends, startup scaling, and industry evolution*
+
+**[Balancing Innovation with Operational Excellence](/kartikblog/thoughts/tech/balancing-innovation-with-operational-excellence/)** — Jan 11, 2026
+Finding the right balance between moving fast and building sustainable systems
 
 ---
 
