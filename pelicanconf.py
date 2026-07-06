@@ -43,11 +43,12 @@ SITELOGO = 'https://kmathur.github.io/kartikblog/images/profile.jpg'
 
 # Clean, minimal styling similar to reference site
 MAIN_MENU = True
+SITETITLE_AS_BRAND = False
 # Navigation: prefix with SITEURL so links work on GitHub Pages (project subpath) and locally
 MENUITEMS = (
-    ('Home', f"{SITEURL}/"),
-    ('Blog', f"{SITEURL}/blog.html"),
-    ('Thoughts', f"{SITEURL}/thoughts/personal/"),
+    ('About', f"{SITEURL}/"),
+    ('Blogs', f"{SITEURL}/thoughts/personal/blog-analysis/"),
+    ('Recommendations', f"{SITEURL}/thoughts/personal/recommendations/"),
     ('Technology', f"{SITEURL}/thoughts/tech/"),
     ('Archive', f"{SITEURL}/archives.html"),
 )
