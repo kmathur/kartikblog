@@ -3,6 +3,7 @@ Date: 2024-07-05
 Modified: 2024-07-05
 Category: Personal
 
+![Book cover](../../../../images/blog-analysis/jumpa.jpg)
 # When a book knows you
 
 Melancholy in art can leave us feeling more alive rather than depressed. What surprises me is not the sadness itself, but how comforting it feels. Why do I willingly seek out stories that leave me emotionally dismantled ?
