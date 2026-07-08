@@ -35,6 +35,9 @@ DEFAULT_PAGINATION = 10
 # Theme settings
 THEME = 'themes/flex'
 
+# Custom templates override
+THEME_TEMPLATES_OVERRIDES = ['templates']
+
 # Flex theme specific settings
 SITETITLE = SITENAME
 SITESUBTITLE = 'Notes, musings, and reflections<br>on stuff that captures my curiosity'
