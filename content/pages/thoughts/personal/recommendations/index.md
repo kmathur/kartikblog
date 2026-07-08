@@ -8,25 +8,25 @@ Modified: 2024-01-01
 
 ## Categories
 
-### 📚 [Books](/kartikblog/thoughts/personal/recommendations/books/)
+### 📚 [Books](books/)
 *Essential reads that have transformed my understanding*
 - Life-changing narratives and philosophical insights
 - Technical deep dives and industry wisdom
 - Personal development and creative inspiration
 
-### 🎬 [Movies](/kartikblog/thoughts/personal/recommendations/movies/)
+### 🎬 [Movies](movies/)
 *Films that left a lasting impression*
 - Cinematic storytelling that challenges perspectives
 - Visual narratives that inspire and provoke thought
 - Documentaries that expand understanding
 
-### 🎵 [Music](/kartikblog/thoughts/personal/recommendations/music/)
+### 🎵 [Music](music/)
 *Soundtracks to creativity and contemplation*
 - Albums that accompany deep work and reflection
 - Artists who capture the human experience
 - Music that fuels inspiration and focus
 
-### 🎧 [Podcasts](/kartikblog/thoughts/personal/recommendations/podcasts/)
+### 🎧 [Podcasts](podcasts/)
 *Voices that inform and inspire*
 - Conversations with world-class performers
 - Deep dives into philosophy and meaning
@@ -36,4 +36,4 @@ Modified: 2024-01-01
 
 *"We are what we repeatedly consume. Excellence, then, comes from the quality of our influences."* - Adapted from Aristotle
 
-[← Back to Personal](/kartikblog/thoughts/personal/) | [← Back to Thoughts](/kartikblog/thoughts/) | [← Back to Home](/kartikblog/)
+[← Back to Personal](../) | [← Back to Thoughts](../../) | [← Back to Home](../../../)
