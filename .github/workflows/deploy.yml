@@ -1,0 +1,62 @@
+name: Deploy Pelican Blog to GitHub Pages
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'content/**/*.md'
+      - 'themes/**/*.html'
+      - 'pelicanconf.py'
+      - 'publishconf.py'
+      - 'themes/**'
+      - '.github/workflows/deploy.yml'
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+      pages: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Cache pip dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+            ${{ runner.os }}-
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install ghp-import
+
+      - name: Build Pelican site
+        run: |
+          make publish
+
+      - name: Configure git
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "GitHub Actions"
+
+      - name: Deploy to GitHub Pages
+        run: |
+          ghp-import -n -p -f output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
