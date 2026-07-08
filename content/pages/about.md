@@ -36,3 +36,5 @@ This blog is where I share my thoughts on:
 Feel free to connect with me through the social links below, or reach out if you have questions about my posts. I'm always up for interesting conversations about technology, engineering leadership, or just about anything that sparks curiosity.
 
 Thanks for stopping by!
+
+<!-- Force deployment trigger -->
