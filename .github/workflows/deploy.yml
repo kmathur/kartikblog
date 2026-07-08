@@ -5,6 +5,7 @@ on:
     branches: [ main ]
     paths:
       - 'content/**/*.md'
+      - 'content/extra/**'
       - 'themes/**/*.html'
       - 'pelicanconf.py'
       - 'publishconf.py'
