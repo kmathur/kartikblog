@@ -25,7 +25,7 @@ Feb 17, 2026
 **[Trip to south italy](/kartikblog/thoughts/personal/blog-analysis/south-italy/)**
 
 Feb 7, 2024
-**[Recent love for Formula 1](/kartikblog/thoughts/personal/blog-analysis/south-italy/)**
+**[Recent love for Formula 1](/kartikblog/thoughts/personal/blog-analysis/formula1/)**
 
 
 
