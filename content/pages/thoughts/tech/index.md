@@ -8,7 +8,8 @@ Modified: 2024-01-01
 
 
 ## AI Infrastructure
-**[Agentic Stack](agent-infra.md/)** - May 12, 2026
+**[Agentic Stack](agent-infra/)** - May 12, 2026
+Unpacking the AI agent
 
 
 ## Tech Industry Commentary
