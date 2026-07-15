@@ -11,12 +11,12 @@ If you have watched Claude's loading spinner, you have seen words like "combobul
 I look at every agent tool through six layers. A request flows bottom-up: a model produces a decision, protocols carry it to tools, state persists what happened, a runtime decides what happens next, evals tell you whether any of it worked, and an application is what the user finally sees.
 
 ```
-6. Applications             Claude Code · Cursor · support & data agents
-5. Eval                     Harbor · LangSmith · Braintrust · Arize
-4. Frameworks & runtimes    LangGraph · Claude Agent SDK · Temporal
-3. Memory & state           Postgres/pgvector · Redis · Mem0 · Zep
-2. Protocols & tools        MCP · Composio · Daytona · E2B · MCP-UI
-1. Models & inference       Claude · GPT · Llama · vLLM · Modal
+6. Applications             Claude Code, Cursor, support and data agents
+5. Eval                     Harbor, LangSmith, Braintrust, Arize
+4. Frameworks & runtimes    LangGraph, Claude Agent SDK, Temporal
+3. Memory & state           Postgres/pgvector, Redis, Mem0, Zep
+2. Protocols & tools        MCP, Composio, Daytona, E2B, MCP-UI
+1. Models & inference       Claude, GPT, Llama, vLLM, Modal
 ```
 
 My bias, stated up front: I run infrastructure and security teams for a living. The layers that decide whether your agent survives contact with production are 2, 3, and 5. That is where this post spends its time.
@@ -86,7 +86,7 @@ Where value lands: coding agents like Claude Code and Cursor, support agents, da
 
 Taxonomies of this space are proliferating, and a popular one draws the stack as eight layers instead of six:
 
-![The agentic stack, eight-layer view](../tech/images/agentic-stack-eight-layer.png)
+![The agentic stack, eight-layer view](images/agentic-stack-eight-layer.png)
 
 The two views map onto each other almost completely. User Interface is my Applications layer. Orchestration is Frameworks and runtimes. LLM/Reasoning is Models and inference. Tools/Actions is Protocols and tools. Memory is Memory and state. Observability is one third of my Eval layer. The eight-layer view then promotes two things to layers that I deliberately keep as properties: Guardrails and Deployment.
 
