@@ -7,6 +7,13 @@ Modified: 2024-01-01
 *Insights from the trenches of building AI/ML platforms at scale*
 
 
+## AI Infrastructure
+**[Agentic Stack](agent-infra.md)** - May 12, 2026
+
+
+## Tech Industry Commentary
+*Analysis of technology trends, startup scaling, and industry evolution*
+
 ## Engineering Leadership
 *Leading technical teams and building high-performing engineering organizations*
 
@@ -15,17 +22,6 @@ Building lasting partnerships between engineering and product management
 
 **[Team Dynamics and Technical Decision Making](team-dynamics-and-technical-decision-making/)** — Jan 11, 2026
 How team structure influences technical choices and outcomes
-
-## AI & Machine Learning
-*Insights from building AI/ML platforms and systems*
-
-*Coming soon: Deep dives into LLM architecture, evaluation frameworks, and production deployment strategies*
-
-## Tech Industry Commentary
-*Analysis of technology trends, startup scaling, and industry evolution*
-
-**[Balancing Innovation with Operational Excellence](balancing-innovation-with-operational-excellence/)** — Jan 11, 2026
-Finding the right balance between moving fast and building sustainable systems
 
 ---
 
