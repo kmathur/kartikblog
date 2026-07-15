@@ -19,7 +19,7 @@ Jan 16, 2026
 **[Where am I right now](/kartikblog/thoughts/personal/blog-analysis/where-i-am-right-now/)**
 
 Feb 11, 2026
-**[About God](/kartikblog/thoughts/personal/blog-analysis/about-god/)**
+**[God Economics](/kartikblog/thoughts/personal/blog-analysis/about-god/)**
 
 Feb 17, 2026
 **[Trip to south italy](/kartikblog/thoughts/personal/blog-analysis/south-italy/)**
