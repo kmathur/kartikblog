@@ -1,0 +1,239 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="HandheldFriendly" content="True" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="robots" content="" />
+
+  <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,400;0,700;1,400&family=Source+Sans+Pro:ital,wght@0,300;0,400;0,700;1,400&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" type="text/css" href="https://kmathur.github.io/kartikblog/theme/stylesheet/style.min.css">
+
+
+    <link id="pygments-light-theme" rel="stylesheet" type="text/css"
+          href="https://kmathur.github.io/kartikblog/theme/pygments/github.min.css">
+
+
+
+  <link rel="stylesheet" type="text/css" href="https://kmathur.github.io/kartikblog/theme/font-awesome/css/fontawesome.css">
+  <link rel="stylesheet" type="text/css" href="https://kmathur.github.io/kartikblog/theme/font-awesome/css/brands.css">
+  <link rel="stylesheet" type="text/css" href="https://kmathur.github.io/kartikblog/theme/font-awesome/css/solid.css">
+
+  <link rel="stylesheet" type="text/css" href="https://kmathur.github.io/kartikblog/static/custom.css">
+
+  <link rel="shortcut icon" href="https://kmathur.github.io/kartikblog/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="https://kmathur.github.io/kartikblog/favicon.ico" type="image/x-icon">
+
+
+  <link href="https://kmathur.github.io/kartikblog/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Kartik Mathur Atom">
+
+
+
+
+
+
+
+
+ 
+
+    <meta name="author" content="Kartik" />
+    <meta name="description" content="My notes about life and things that I find interesting" />
+  <meta property="og:site_name" content="Kartik Mathur"/>
+  <meta property="og:type" content="blog"/>
+  <meta property="og:title" content="Kartik Mathur"/>
+  <meta property="og:description" content="My notes about life and things that I find interesting"/>
+  <meta property="og:locale" content="en_US"/>
+  <meta property="og:url" content="https://kmathur.github.io/kartikblog"/>
+  <meta property="og:image" content="https://kmathur.github.io/kartikblog/images/profile/profile.jpg">
+
+
+
+  <title>Kartik Mathur &ndash; Combobulating the Agentic Stack</title>
+
+
+</head>
+<body class="light-theme">
+
+<aside>
+  <div>
+    <a href="https://kmathur.github.io/kartikblog/">
+      <img src="https://kmathur.github.io/kartikblog/images/profile/profile.jpg" alt="Kartik Mathur" title="Kartik Mathur">
+    </a>
+
+    <h1>
+      <a href="https://kmathur.github.io/kartikblog/">Kartik Mathur</a>
+    </h1>
+
+    <p>Notes, musings, and reflections<br>on stuff that captures my curiosity</p>
+
+
+
+    <ul class="social">
+      <li>
+        <a class="sc-github"
+           href="https://github.com/kmathur"
+           target="_blank">
+          <i class="fa-brands fa-github"></i>
+        </a>
+      </li>
+      <li>
+        <a class="sc-twitter"
+           href="https://x.com/kartik_mathur01"
+           target="_blank">
+          <i class="fa-brands fa-twitter"></i>
+        </a>
+      </li>
+      <li>
+        <a class="sc-linkedin"
+           href="https://www.linkedin.com/in/mathurkartik/"
+           target="_blank">
+          <i class="fa-brands fa-linkedin"></i>
+        </a>
+      </li>
+    </ul>
+  </div>
+
+</aside>
+  <main>
+
+<nav>
+  <a href="https://kmathur.github.io/kartikblog/">About</a>
+  <a href="https://kmathur.github.io/kartikblog/thoughts/personal/blog-analysis/">Blogs</a>
+  <a href="https://kmathur.github.io/kartikblog/thoughts/personal/recommendations/">Recommendations</a>
+  <a href="https://kmathur.github.io/kartikblog/thoughts/tech/">Technology</a>
+  <a href="https://kmathur.github.io/kartikblog/archives.html">Archive</a>
+
+  <a href="https://kmathur.github.io/kartikblog/feeds/all.atom.xml">Atom</a>
+
+</nav>
+
+<article class="single">
+  <header>
+    
+    <h1 id="combobulating-the-agentic-stack">Combobulating the Agentic Stack</h1>
+  </header>
+  <div>
+<h1>Combobulating the Agentic Stack</h1>
+<p><em>A working map of the six layers every production agent stands on, and where the interesting boundaries are.</em></p>
+<p>If you have watched Claude's loading spinner, you have seen words like "combobulating" and "mulling" flash by while the model thinks. That is a fitting mood for the agent infrastructure market right now: dozens of tools, overlapping claims, and a lot of thinking out loud. This post is my attempt to combobulate it into a stack you can actually reason about.</p>
+<p>I look at every agent tool through six layers. A request flows bottom-up: a model produces a decision, protocols carry it to tools, state persists what happened, a runtime decides what happens next, evals tell you whether any of it worked, and an application is what the user finally sees.</p>
+<div class="highlight"><pre><span></span><code><span class="mf">6.</span><span class="w"> </span><span class="n">Applications</span><span class="w">             </span><span class="n">Claude</span><span class="w"> </span><span class="n">Code</span><span class="w"> </span><span class="err">·</span><span class="w"> </span><span class="n">Cursor</span><span class="w"> </span><span class="err">·</span><span class="w"> </span><span class="n">support</span><span class="w"> </span><span class="err">&amp;</span><span class="w"> </span><span class="kd">data</span><span class="w"> </span><span class="n">agents</span>
+<span class="mf">5.</span><span class="w"> </span><span class="n">Eval</span><span class="w">                     </span><span class="n">Harbor</span><span class="w"> </span><span class="err">·</span><span class="w"> </span><span class="n">LangSmith</span><span class="w"> </span><span class="err">·</span><span class="w"> </span><span class="n">Braintrust</span><span class="w"> </span><span class="err">·</span><span class="w"> </span><span class="n">Arize</span>
+<span class="mf">4.</span><span class="w"> </span><span class="n">Frameworks</span><span class="w"> </span><span class="err">&amp;</span><span class="w"> </span><span class="kr">run</span><span class="n">times</span><span class="w">    </span><span class="n">LangGraph</span><span class="w"> </span><span class="err">·</span><span class="w"> </span><span class="n">Claude</span><span class="w"> </span><span class="n">Agent</span><span class="w"> </span><span class="n">SDK</span><span class="w"> </span><span class="err">·</span><span class="w"> </span><span class="n">Temporal</span>
+<span class="mf">3.</span><span class="w"> </span><span class="n">Memory</span><span class="w"> </span><span class="err">&amp;</span><span class="w"> </span><span class="n">state</span><span class="w">           </span><span class="nb">Pos</span><span class="n">tgres</span><span class="o">/</span><span class="n">pgvector</span><span class="w"> </span><span class="err">·</span><span class="w"> </span><span class="n">Redis</span><span class="w"> </span><span class="err">·</span><span class="w"> </span><span class="n">Mem0</span><span class="w"> </span><span class="err">·</span><span class="w"> </span><span class="n">Zep</span>
+<span class="mf">2.</span><span class="w"> </span><span class="n">Protocols</span><span class="w"> </span><span class="err">&amp;</span><span class="w"> </span><span class="kr">to</span><span class="n">ols</span><span class="w">        </span><span class="n">MCP</span><span class="w"> </span><span class="err">·</span><span class="w"> </span><span class="n">Composio</span><span class="w"> </span><span class="err">·</span><span class="w"> </span><span class="n">Daytona</span><span class="w"> </span><span class="err">·</span><span class="w"> </span><span class="n">E2B</span><span class="w"> </span><span class="err">·</span><span class="w"> </span><span class="n">MCP</span><span class="o">-</span><span class="n">UI</span>
+<span class="mf">1.</span><span class="w"> </span><span class="n">Models</span><span class="w"> </span><span class="err">&amp;</span><span class="w"> </span><span class="n">inference</span><span class="w">       </span><span class="n">Claude</span><span class="w"> </span><span class="err">·</span><span class="w"> </span><span class="n">GPT</span><span class="w"> </span><span class="err">·</span><span class="w"> </span><span class="n">Llama</span><span class="w"> </span><span class="err">·</span><span class="w"> </span><span class="n">vLLM</span><span class="w"> </span><span class="err">·</span><span class="w"> </span><span class="n">Modal</span>
+</code></pre></div>
+
+<p>My bias, stated up front: I run infrastructure and security teams for a living. The layers that decide whether your agent survives contact with production are 2, 3, and 5. That is where this post spends its time.</p>
+<h2>Layer 1: Models and inference</h2>
+<p>Two decisions hide in this layer, and teams routinely conflate them. Which model: Claude, GPT, Gemini, or an open-weight family like Llama or Qwen. And where inference runs: a managed API, an enterprise gateway like Bedrock or Vertex, or self-served open models on vLLM via platforms like Modal, Together, or Fireworks.</p>
+<p>The practical pattern is routing, not loyalty. A support agent classifies intent with a small cheap model served on vLLM and escalates reasoning-heavy turns to a frontier model. Done well, this cuts inference cost 5 to 10x without a measurable quality drop, because most turns in most agents are not hard.</p>
+<h2>Layer 2: Protocols and tools</h2>
+<p>This is how an agent touches anything beyond text, and it splits into four distinct sub-layers that get lumped together far too often.</p>
+<p><strong>Agent protocols.</strong> MCP and native function calling are the wire formats; A2A is the emerging agent-to-agent equivalent. MCP won the connectivity argument fast because it turned N x M integrations into N + M.</p>
+<p><strong>Tool platforms.</strong> Composio, Arcade, and Zapier's MCP surface sell managed catalogs of hundreds of pre-authenticated tools. What you are actually buying is OAuth token management and permission scoping, which is drudgery you do not want to own.</p>
+<p><strong>Sandboxes and code execution.</strong> When an agent writes code, that code is untrusted by definition. It might be hallucinated, buggy, or the product of a prompt injection. Daytona, E2B, and Modal Sandboxes give each execution an isolated environment with its own filesystem and kernel-level boundary, spun up in well under a second. If your agent runs its own generated code on a shared production host, you do not have an agent, you have an incident in staging.</p>
+<p><strong>Interactive UI over MCP.</strong> The newest sub-layer, and the answer to "where does MCP-UI fit?" Plain MCP defines how an agent calls a tool. MCP-UI extends the same protocol so a tool's response can be an interactive UI resource, an iframe or web component the host app renders inline, with user events flowing back to the agent. A booking server returns a seat map instead of a JSON blob. OpenAI's Apps SDK is the same idea in that ecosystem; AG-UI standardizes the framework-to-frontend event stream. The one-liner: MCP made tools legible to agents, and MCP-UI makes tool results legible to humans again. It technically lives in layer 2, but it is the one sub-layer whose output belongs to layer 6.</p>
+<h2>Layer 3: Memory and state</h2>
+<p>Everything the agent knows beyond its current context window. Postgres, often with pgvector, is the durable backbone: checkpoints, run history, transactional state. Redis holds hot session state. Vector stores like Pinecone handle semantic recall. Managed memory layers like Mem0 and Zep take over extraction, consolidation, and decay so you are not hand-rolling a forgetting policy.</p>
+<p>The unglamorous insight from running stateful systems: your agent's state store deserves the same rigor as any OLTP schema. A LangGraph checkpointer writing every step to Postgres means a workflow interrupted for human approval resumes exactly where it paused, days later, on a different pod. That is not a framework feature. That is a database doing what databases do.</p>
+<h2>Layer 4: Frameworks and runtimes</h2>
+<p>The orchestration brain: control flow, retries, branching, and human-in-the-loop gates. LangGraph gives you explicit state machines. The Claude Agent SDK and OpenAI Agents SDK give you lighter loops that lean on the model's own judgment. CrewAI packages multi-agent patterns. Temporal sits underneath any of them when you need durable execution with industrial guarantees.</p>
+<p>The design decision that matters most here is the interrupt. Any agent that mutates real systems needs a point where it stops, shows a human what it intends to do, and waits. In LangGraph this is an interrupt node; in a hand-rolled loop it is ten lines of code. Either way, it is the difference between an agent you can deploy and a demo you can film.</p>
+<p>It is worth being precise about what these runtimes actually are: state machines, not flowcharts. A flowchart describes an algorithm, steps executed once, top to bottom. A state machine describes a system: a finite set of states it can rest in, with transitions fired by events. That distinction buys you three things agents need. The machine can idle ("awaiting approval" is a legitimate place to park for three days). It can re-enter states (the loop revisits planning dozens of times per task). And the current state is data, which means it can be checkpointed to Postgres and resumed on a different pod. Durability is a property of the state machine framing, not of any particular framework.</p>
+<div class="highlight"><pre><span></span><code><span class="n">stateDiagram</span><span class="o">-</span><span class="n">v2</span>
+<span class="w">    </span><span class="p">[</span><span class="o">*</span><span class="p">]</span><span class="w"> </span><span class="o">--&gt;</span><span class="w"> </span><span class="n">Planning</span>
+<span class="w">    </span><span class="n">Planning</span><span class="w"> </span><span class="o">--&gt;</span><span class="w"> </span><span class="n">Acting</span><span class="p">:</span><span class="w"> </span><span class="n">safe</span><span class="w"> </span><span class="k">tool</span><span class="w"> </span><span class="n">call</span>
+<span class="w">    </span><span class="n">Planning</span><span class="w"> </span><span class="o">--&gt;</span><span class="w"> </span><span class="n">AwaitingApproval</span><span class="p">:</span><span class="w"> </span><span class="n">risky</span><span class="w"> </span><span class="k">tool</span><span class="w"> </span><span class="n">call</span>
+<span class="w">    </span><span class="n">AwaitingApproval</span><span class="w"> </span><span class="o">--&gt;</span><span class="w"> </span><span class="n">Acting</span><span class="p">:</span><span class="w"> </span><span class="n">human</span><span class="w"> </span><span class="n">approves</span>
+<span class="w">    </span><span class="n">AwaitingApproval</span><span class="w"> </span><span class="o">--&gt;</span><span class="w"> </span><span class="n">Planning</span><span class="p">:</span><span class="w"> </span><span class="n">human</span><span class="w"> </span><span class="n">rejects</span>
+<span class="w">    </span><span class="n">Acting</span><span class="w"> </span><span class="o">--&gt;</span><span class="w"> </span><span class="n">Observing</span><span class="p">:</span><span class="w"> </span><span class="k">tool</span><span class="w"> </span><span class="n">returns</span>
+<span class="w">    </span><span class="n">Observing</span><span class="w"> </span><span class="o">--&gt;</span><span class="w"> </span><span class="n">Planning</span><span class="p">:</span><span class="w"> </span><span class="n">result</span><span class="w"> </span><span class="n">added</span><span class="w"> </span><span class="n">to</span><span class="w"> </span><span class="n">state</span>
+<span class="w">    </span><span class="n">Planning</span><span class="w"> </span><span class="o">--&gt;</span><span class="w"> </span><span class="n">Done</span><span class="p">:</span><span class="w"> </span><span class="n">no</span><span class="w"> </span><span class="n">more</span><span class="w"> </span><span class="k">tool</span><span class="w"> </span><span class="n">calls</span>
+<span class="w">    </span><span class="n">Done</span><span class="w"> </span><span class="o">--&gt;</span><span class="w"> </span><span class="p">[</span><span class="o">*</span><span class="p">]</span>
+</code></pre></div>
+
+<h2>Layer 5: Eval</h2>
+<p>How you know any of this works. Three sub-categories, split by when they run.</p>
+<p><strong>Benchmarks and harnesses</strong> run before release. Harbor, from the Terminal-Bench team, is the emerging standard here: it specifies containerized tasks with verifiable rewards and runs thousands of trials in parallel across sandbox providers. SWE-Bench covers the coding-agent slice.</p>
+<p><strong>Tracing and observability</strong> runs in production. LangSmith and Langfuse capture every trajectory; OpenTelemetry folds agent traces into the observability stack you already operate, which matters more than it sounds, because your on-call engineer should not need a second pane of glass at 3am.</p>
+<p><strong>Eval and experiment platforms</strong> sit across both. Braintrust and Arize AI (with its open-source sibling Phoenix) turn raw traces into scored experiments, LLM-as-judge pipelines, and regression gates. Braintrust leans toward experiment workflow and CI-style gating; Arize leans toward production monitoring and drift. They are complementary more than competing.</p>
+<p>The wiring that makes this layer real: every production trajectory streams to your tracing tool, and a nightly Harbor job replays a golden task suite against any prompt or model change, blocking the release if reward drops. Evals in CI, not evals in a spreadsheet.</p>
+<h2>Layer 6: Applications</h2>
+<p>Where value lands: coding agents like Claude Code and Cursor, support agents, data and config agents, domain copilots. The only layer users see, and the only layer they care about. Every layer below exists so this one can be boring and reliable.</p>
+<h2>Another cut of the same stack</h2>
+<p>Taxonomies of this space are proliferating, and a popular one draws the stack as eight layers instead of six:</p>
+<p><img alt="The agentic stack, eight-layer view" src="../tech/images/agentic-stack-eight-layer.png"></p>
+<p>The two views map onto each other almost completely. User Interface is my Applications layer. Orchestration is Frameworks and runtimes. LLM/Reasoning is Models and inference. Tools/Actions is Protocols and tools. Memory is Memory and state. Observability is one third of my Eval layer. The eight-layer view then promotes two things to layers that I deliberately keep as properties: Guardrails and Deployment.</p>
+<p>That difference is worth dwelling on, because it is a real disagreement about architecture, not just labeling. Treating guardrails as a layer suggests you can buy a box, wire it inline, and be safe. In practice the controls that matter live inside other layers: sandbox isolation and access control in layer 2, interrupt gates in layer 4, regression evals and tracing in layer 5, and RBAC on the state store in layer 3. A moderation endpoint bolted between the user and the model catches slurs; it does not catch an agent exfiltrating data through a tool call it was authorized to make. Guardrails are a property the whole stack either has or does not have. The same goes for Deployment: Kubernetes, serverless, and edge are the substrate everything runs on, not a layer agents flow through.</p>
+<p>Where the eight-layer view earns its keep is as a checklist. If you are assembling your first agent, "have I thought about each of these eight boxes" is a genuinely useful audit, and its Options column doubles as a shopping list. The six-layer view is the dependency graph you architect against; the eight-layer view is the inventory you check before shipping. Keep both in your pocket.</p>
+<h2>The whole stack in 100 lines</h2>
+<p>Abstractions are easier to trust once you have built the unabstracted version. Here is a form-filling agent that is the entire stack in miniature: Claude is layer 1, four hand-rolled Playwright tools are layer 2, the message list is layer 3 state, a while loop is the layer 4 runtime, and a human approval gate guards the click.</p>
+<div class="highlight"><pre><span></span><code><span class="n">TOOLS</span> <span class="o">=</span> <span class="p">[</span>
+    <span class="p">{</span><span class="s2">&quot;name&quot;</span><span class="p">:</span> <span class="s2">&quot;navigate&quot;</span><span class="p">,</span> <span class="s2">&quot;description&quot;</span><span class="p">:</span> <span class="s2">&quot;Open a URL.&quot;</span><span class="p">,</span> <span class="o">...</span><span class="p">},</span>
+    <span class="p">{</span><span class="s2">&quot;name&quot;</span><span class="p">:</span> <span class="s2">&quot;read_page&quot;</span><span class="p">,</span> <span class="s2">&quot;description&quot;</span><span class="p">:</span> <span class="s2">&quot;Return form fields and text.&quot;</span><span class="p">,</span> <span class="o">...</span><span class="p">},</span>
+    <span class="p">{</span><span class="s2">&quot;name&quot;</span><span class="p">:</span> <span class="s2">&quot;fill&quot;</span><span class="p">,</span> <span class="s2">&quot;description&quot;</span><span class="p">:</span> <span class="s2">&quot;Fill an input by CSS selector.&quot;</span><span class="p">,</span> <span class="o">...</span><span class="p">},</span>
+    <span class="p">{</span><span class="s2">&quot;name&quot;</span><span class="p">:</span> <span class="s2">&quot;click&quot;</span><span class="p">,</span> <span class="s2">&quot;description&quot;</span><span class="p">:</span> <span class="s2">&quot;Click. A human approves every click.&quot;</span><span class="p">,</span> <span class="o">...</span><span class="p">},</span>
+<span class="p">]</span>
+
+<span class="k">async</span> <span class="k">def</span><span class="w"> </span><span class="nf">run_tool</span><span class="p">(</span><span class="n">page</span><span class="p">,</span> <span class="n">name</span><span class="p">,</span> <span class="n">args</span><span class="p">):</span>
+    <span class="o">...</span>
+    <span class="k">if</span> <span class="n">name</span> <span class="o">==</span> <span class="s2">&quot;click&quot;</span><span class="p">:</span>
+        <span class="n">answer</span> <span class="o">=</span> <span class="nb">input</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;Agent wants to click &#39;</span><span class="si">{</span><span class="n">args</span><span class="p">[</span><span class="s1">&#39;selector&#39;</span><span class="p">]</span><span class="si">}</span><span class="s2">&#39;. Approve? [y/N] &quot;</span><span class="p">)</span>
+        <span class="k">if</span> <span class="n">answer</span><span class="o">.</span><span class="n">strip</span><span class="p">()</span><span class="o">.</span><span class="n">lower</span><span class="p">()</span> <span class="o">!=</span> <span class="s2">&quot;y&quot;</span><span class="p">:</span>
+            <span class="k">return</span> <span class="p">{</span><span class="s2">&quot;ok&quot;</span><span class="p">:</span> <span class="kc">False</span><span class="p">,</span> <span class="s2">&quot;error&quot;</span><span class="p">:</span> <span class="s2">&quot;human rejected the click&quot;</span><span class="p">}</span>
+        <span class="k">await</span> <span class="n">page</span><span class="o">.</span><span class="n">click</span><span class="p">(</span><span class="n">args</span><span class="p">[</span><span class="s2">&quot;selector&quot;</span><span class="p">])</span>
+        <span class="k">return</span> <span class="p">{</span><span class="s2">&quot;ok&quot;</span><span class="p">:</span> <span class="kc">True</span><span class="p">,</span> <span class="s2">&quot;url&quot;</span><span class="p">:</span> <span class="n">page</span><span class="o">.</span><span class="n">url</span><span class="p">}</span>
+
+<span class="n">messages</span> <span class="o">=</span> <span class="p">[{</span><span class="s2">&quot;role&quot;</span><span class="p">:</span> <span class="s2">&quot;user&quot;</span><span class="p">,</span> <span class="s2">&quot;content&quot;</span><span class="p">:</span> <span class="n">task</span><span class="p">}]</span>
+<span class="k">while</span> <span class="kc">True</span><span class="p">:</span>
+    <span class="n">resp</span> <span class="o">=</span> <span class="n">client</span><span class="o">.</span><span class="n">messages</span><span class="o">.</span><span class="n">create</span><span class="p">(</span><span class="n">model</span><span class="o">=</span><span class="n">MODEL</span><span class="p">,</span> <span class="n">tools</span><span class="o">=</span><span class="n">TOOLS</span><span class="p">,</span> <span class="n">messages</span><span class="o">=</span><span class="n">messages</span><span class="p">)</span>
+    <span class="n">messages</span><span class="o">.</span><span class="n">append</span><span class="p">({</span><span class="s2">&quot;role&quot;</span><span class="p">:</span> <span class="s2">&quot;assistant&quot;</span><span class="p">,</span> <span class="s2">&quot;content&quot;</span><span class="p">:</span> <span class="n">resp</span><span class="o">.</span><span class="n">content</span><span class="p">})</span>
+    <span class="k">if</span> <span class="n">resp</span><span class="o">.</span><span class="n">stop_reason</span> <span class="o">!=</span> <span class="s2">&quot;tool_use&quot;</span><span class="p">:</span>
+        <span class="k">break</span>
+    <span class="n">messages</span><span class="o">.</span><span class="n">append</span><span class="p">({</span><span class="s2">&quot;role&quot;</span><span class="p">:</span> <span class="s2">&quot;user&quot;</span><span class="p">,</span> <span class="s2">&quot;content&quot;</span><span class="p">:</span> <span class="n">run_all_tools</span><span class="p">(</span><span class="n">resp</span><span class="p">)})</span>
+</code></pre></div>
+
+<p>Two details carry the lesson. <code>read_page</code> returns a structured inventory of form fields instead of raw HTML, because cheap deterministic context beats dumping the DOM into the prompt. And <code>click</code> cannot fire without approval, which is the same interrupt pattern LangGraph formalizes, at the smallest possible scale. (Full runnable version in the repo. Automate only forms you own or are authorized to touch, keep credentials out of prompts, and treat a CAPTCHA as a site telling you no.)</p>
+<h2>Where this is heading</h2>
+<p>The stack is consolidating from both ends. Model providers are eating downward into layer 2, shipping their own sandboxes, tool catalogs, and UI protocols. Framework vendors are eating upward into layer 5, bundling evals and tracing. The boundaries most likely to survive are the ones backed by real operational gravity: isolation (sandboxes), state correctness (your database), and audit (evals plus tracing). Not coincidentally, those are the layers where infrastructure and security discipline separates the demos from the systems.</p>
+<p>Pick one tool per layer, wire the seams, and ship something small. The stack rewards teams that treat it like infrastructure, because that is what it is.</p>  </div>
+  <hr>
+<!-- Disqus -->
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'kmathur25';
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>
+    Please enable JavaScript to view comments.
+</noscript>
+<!-- End Disqus -->
+</article>
+
+<footer>
+<p>&copy; 2026 Kartik</p>
+<p>
+Built with <a href="http://getpelican.com" target="_blank">Pelican</a> using <a href="http://bit.ly/flex-pelican" target="_blank">Flex</a> theme
+</p></footer>  </main>
+
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Blog",
+  "name": " Kartik Mathur ",
+  "url" : "https://kmathur.github.io/kartikblog",
+  "image": "https://kmathur.github.io/kartikblog/images/profile/profile.jpg",
+  "description": "My notes about life and things that I find interesting"
+}
+</script>
+</body>
+</html>
