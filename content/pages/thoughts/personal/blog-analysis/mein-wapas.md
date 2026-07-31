@@ -1,5 +1,10 @@
 
-## Doorstep Scene in Mein Wapas Aaunga
+Title: Staircase Scene in Mein Wapas Aaunga
+Date: 2024-07-05
+Modified: 2024-07-05
+Category: Personal
+
+## Staircase Scene in Mein Wapas Aaunga
 
 
 ![Scene](../../../../images/blog-analysis/meinwapas.jpeg)
