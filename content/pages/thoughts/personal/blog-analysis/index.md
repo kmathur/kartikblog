@@ -6,6 +6,9 @@ Modified: 2024-01-01
 
 *Random musing and my commentary on various topics*
 
+Jul 30, 2026
+**[Movie that touched me](/kartikblog/thoughts/personal/blog-analysis/mein-wapas/)**
+
 Jul 5, 2026
 **[When a book knows you](/kartikblog/thoughts/personal/blog-analysis/jhumpa/)**
 
