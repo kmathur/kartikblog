@@ -3,7 +3,7 @@ Date: 2026-11-16
 Category: Tech
 
 <style>
-  article.single { margin-left: 2%; margin-right: 2%; }
+  main article.single { max-width: none; margin-left: 2%; margin-right: 2%; }
   #ipo-frame { display: block; width: 100%; height: 1400px; border: 0; background: transparent; }
 </style>
 <iframe id="ipo-frame" src="{static}/extra/tech-ipos-since-2010.html" title="Tech IPOs since 2010" scrolling="no" loading="lazy"></iframe>
