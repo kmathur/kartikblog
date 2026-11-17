@@ -106,9 +106,12 @@ MENUITEMS_BEFORE_PAGES = True
 
 # Custom CSS and static files
 STATIC_PATHS = ['images', 'extra']
+ARTICLE_EXCLUDES = ['extra']
+PAGE_EXCLUDES = ['extra']
 EXTRA_PATH_METADATA = {
     'extra/custom.css': {'path': 'static/custom.css'},
     'extra/favicon.ico': {'path': 'favicon.ico'},
+    'extra/tech-ipos-since-2010.html': {'path': 'static/tech-ipos-since-2010.html'},
 }
 
 CUSTOM_CSS = 'static/custom.css'

@@ -15,6 +15,9 @@ Unpacking the AI agent
 ## Tech Industry Commentary
 *Analysis of technology trends, startup scaling, and industry evolution*
 
+**[Tech IPOs Since 2010](tech-ipos-since-2010/)** - Nov 16, 2026
+Every US-listed tech IPO since 2010: first-day open vs. today, with search and filters
+
 ## Engineering Leadership
 *Leading technical teams and building high-performing engineering organizations*
 
