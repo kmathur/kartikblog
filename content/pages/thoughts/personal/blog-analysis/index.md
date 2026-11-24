@@ -6,6 +6,9 @@ Modified: 2024-01-01
 
 *Random musing and my commentary on various topics*
 
+Nov 23, 2026
+**[In My Own Company: My Solo Trip to Grass Valley](/kartikblog/thoughts/personal/blog-analysis/grass-valley-cabin/)**
+
 Jul 30, 2026
 **[Movie that touched me](/kartikblog/thoughts/personal/blog-analysis/mein-wapas/)**
 
